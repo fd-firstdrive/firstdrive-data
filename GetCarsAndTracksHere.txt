@@ -1,0 +1,10 @@
+--> Go to
+
+mega.co.nz/.....
+
+And "overwrite" everything over the [data] folder. 
+
+
+--> Or from main repo and fetch everything:
+
+https://github.com/MNXANL/FirstDrive

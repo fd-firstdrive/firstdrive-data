@@ -1,0 +1,22 @@
+cull faces = on
+vertical tracking skyboxes = no
+non-treaded friction coefficient = 1.000000
+treaded friction coefficient = 0.900000
+lap sequences = 0
+number of stops = 1
+number of giveways = 0
+number of parking spots = 0
+start position 0 = 75.306458,0.567788,-80.692978
+start position 1 = -25.980745,0.491988,14.181670
+start position 2 = -26.142111,0.521879,-40.032478
+start position 3 = -26.321352,0.343882,-129.065414
+start position 4 = -128.686935,0.249015,-138.733765
+start position 5 = -161.014267,0.692080,33.259583
+start orientation 0 = -179.203232,89.472511,-179.217285
+start orientation 1 = -1.031297,1.146129,0.002341
+start orientation 2 = -0.114564,0.114768,0.002323
+start orientation 3 = -0.114564,0.114768,0.002323
+start orientation 4 = 178.077377,14.643854,-179.985153
+start orientation 5 = 3.693020,-88.646507,-0.136111
+stop 0 = 0.000000,1.000000,0.000000
+
